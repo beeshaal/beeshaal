@@ -3,7 +3,6 @@
 - 🎓 I’m currently pursuing a Bachelor's degree in Computer Engineering at NCIT
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🤝 I'm open to contributing to open-source projects.
-- 📫 Reach me at: maximthapa33@gmail.com
 - 😄 Pronouns: He/Him
 
 ## My Skills
