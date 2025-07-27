@@ -39,15 +39,10 @@ sort colorful casino coins and fill up the box with stacks of matching colors.
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=beeshaal&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/bishal-thapa-72440129b)
 - 🎮 [Facebook](https://www.facebook.com/profile.php?id=100012004481139)
-- 📧 bishalthapa.dev@gmail.com *(feel free to add this if you're okay)*
+- 📧 bishalth77@gmail.com 
 
 ---
 
